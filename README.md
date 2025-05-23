@@ -1,5 +1,5 @@
 # EX 10 : ANIMATION USING FLASH
-
+# Reg No: 212224040232
 
 ## AIM
   
@@ -65,3 +65,4 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+![Screenshot 2025-05-23 122842](https://github.com/user-attachments/assets/e39b1631-c32a-4dd2-b0e0-a4684c048e5c)
